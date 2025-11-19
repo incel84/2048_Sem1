@@ -1,0 +1,7 @@
+                                                         2048_Game-tutorial
+
+Step 1-Write a line of code given below on your vscode terminal as it links the program with Raylib and required window libraries and press enter:
+
+gcc main.c -o main.exe -I C:/raylib-5.5/include -L C:/raylib-5.5/lib -lraylib -lopengl32 -lgdi32 -lwinmm
+
+Step 2- Write '.\main.exe' and press Enter 

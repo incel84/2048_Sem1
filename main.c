@@ -430,7 +430,7 @@ if (gamewon) {
         Fade(BLACK, 0.30f)
     );
 
-    const char *msg = "Shake your draids!";
+    const char *msg = "Shake your braids!";
     int fontSize = 32;
     int w = MeasureText(msg, fontSize);
 
@@ -533,4 +533,5 @@ while(!WindowShouldClose()){
 CloseWindow();
 
     return 0;
+
 }
